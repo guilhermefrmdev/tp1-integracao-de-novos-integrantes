@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: "Default Issue"
+    description: "Issue padrão do projeto"
+    title: ""
+    body: "./ISSUE_TEMPLATE/default_issue.md"
